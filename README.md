@@ -7,7 +7,7 @@ This project demonstrates backend connectivity, session handling, database integ
 
 This application allows users to:
 
-1)View available restaurants
+1)View available restaurants<br>
 2)Browse menus
 3)Register & Login
 4)Add items to cart

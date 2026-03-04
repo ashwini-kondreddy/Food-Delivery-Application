@@ -1,4 +1,4 @@
-<img width="1920" height="1008" alt="Screenshot 2026-03-04 194823" src="https://github.com/user-attachments/assets/56a425b3-eac8-40db-bced-d9405aa5f0ff" /><img width="1920" height="1008" alt="Screenshot 2026-03-04 194718" src="https://github.com/user-attachments/assets/8b172207-f4a7-4a04-8451-e30b94236d5f" />🍽️ Food Delivery Web Application
+🍽️ Food Delivery Web Application
 
 A dynamic Food Delivery Web Application built using Java, JSP, Servlets, JDBC, MySQL, HTML, and CSS.
 This project demonstrates backend connectivity, session handling, database integration, and complete order workflow management.
